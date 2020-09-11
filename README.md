@@ -1,1 +1,1 @@
-# Introduction_to_algorithms-3rd-Edition
+# Introduction to algorithms 3rd-Edition
